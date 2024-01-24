@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **Java, Basic Frontend**
-
 - 📫 How to reach me **mahendra3201@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
